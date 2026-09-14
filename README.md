@@ -15,7 +15,7 @@ CW-MultiTarget-ML/
 ├── requirements.txt
 ├── multi_output_GBDT.py
 ├── SHAP_analysis.py
-└── external_validation.py
+└── validation.py
 ```
 
 ### Main scripts
